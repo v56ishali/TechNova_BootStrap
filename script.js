@@ -158,7 +158,7 @@ document.addEventListener('DOMContentLoaded', function () {
             submitButton.innerHTML = '<span class="spinner-border spinner-border-sm me-2" role="status" aria-hidden="true"></span>Sending...';
 
             // Send to FormSubmit.co via AJAX
-            fetch("https://formsubmit.co/ajax/vishali.sk28@gmail.com", {
+            fetch("https://formsubmit.co/ajax/xxx1@gmail.com", {
                 method: "POST",
                 body: formData
             })
